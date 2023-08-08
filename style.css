@@ -15,13 +15,13 @@ background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.s
 background-repeat: no-repeat, no-repeat;
 background-position: right 50vw bottom 50vh, 
 left 80vh top 50vh;
-
 }
 
 .container{
 margin:0 auto;
 text-align: center;
 }
+
 .wrapper {
     max-width: 420 px;
     background-color: #FFF;
